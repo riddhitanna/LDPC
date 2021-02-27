@@ -1,6 +1,6 @@
 # LDPC
 LDPC Codes - Encoding and Decoding
-The project is coded in cpp. A colleague and I have contributed to this. 
+The project is coded in cpp.
 We have coded an encoder and a decoder using the concepts of Tanner graphs and Iterative Decoding for LDPC codes. 
 The user can input the binary message signal that gets encoded in LDPC.
 There are two channels through which the encoded message can pass through - a Binary Erasure Channel and a Binary Symmetric Channel.
